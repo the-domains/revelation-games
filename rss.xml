@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Revelation Games]]></title>
+        <description><![CDATA[Revelation Games]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 06 Mar 2016 15:56:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A New Breed of Digital Gaming</p>]]></description>
+            <link>undefined0534a989-0851-4bc1-b8e0-896c009fd520/index.html</link>
+            <guid isPermaLink="false">0534a989-0851-4bc1-b8e0-896c009fd520</guid>
+            <pubDate>Sun, 06 Mar 2016 15:54:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
